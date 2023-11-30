@@ -1,6 +1,6 @@
 # Text Editor PWA
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
 
 A single-page application text editor with Progressive Web App (PWA) capabilities and IndexedDB data persistence.
 
@@ -39,15 +39,17 @@ Before running the application, ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/text-editor-pwa.git
 
-
 ## Usage 
 
-To start the application, run the following command: ``
+To start the application, run the following command: `npm run start:dev`
 
 
 ## Deployment
 
-The application is deployed using Render. Access the live link
+## Deployment
+
+The application is deployed using [Heroku](https://heroku.com). Access the live deployment at [JATE PWA](https://jate-pwa-offline-15cbd486564b.heroku).
+
 
 ## License
 
