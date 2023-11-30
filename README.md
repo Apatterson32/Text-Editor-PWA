@@ -47,9 +47,9 @@ To start the application, run the following command: `npm run start:dev`
 
 ## Deployment
 
-## Deployment
-
 The application is deployed using [Heroku](https://heroku.com). Access the live deployment at [JATE PWA](https://jate-pwa-offline-15cbd486564b.heroku).
+
+![Screenshot 2023-11-30 171830](https://github.com/Apatterson32/Text-Editor-PWA/assets/135552416/8112ba90-a727-4f0f-aa93-0312afbd8727)
 
 
 ## License
