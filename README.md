@@ -1,6 +1,6 @@
 # Text Editor PWA
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 A single-page application text editor with Progressive Web App (PWA) capabilities and IndexedDB data persistence.
 
@@ -13,6 +13,7 @@ A single-page application text editor with Progressive Web App (PWA) capabilitie
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [License](#license)
+- [Contact](#contact)
 
 ## Introduction
 
@@ -54,3 +55,7 @@ The application is deployed using [Heroku](https://heroku.com). Access the live 
 ## License
 
 This project is licensed under the MIT License.
+
+## Contact
+
+[Email](pattersonal10@gmail.com)
