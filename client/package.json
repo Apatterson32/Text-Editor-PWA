@@ -1,5 +1,4 @@
 {
-  "name": "Text-Editor-PWA",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
